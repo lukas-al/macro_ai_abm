@@ -1,3 +1,6 @@
+papers/*
+!.gitkeep
+
 __pycache__/
 *.pyc
 *.pyo
