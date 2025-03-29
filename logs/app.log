@@ -1,0 +1,6 @@
+2025-03-29 10:47:21 - root - INFO - Logger configured successfully. Using log file: logs/app.log
+2025-03-29 10:47:21 - root - INFO - Starting simulation...
+2025-03-29 10:47:21 - agents.base_agent - DEBUG - Created agent None with ID 1
+2025-03-29 10:47:21 - agents.base_agent - DEBUG - Created agent None with ID 2
+2025-03-29 10:47:21 - agents.household - DEBUG - Created agent Household with ID 2
+2025-03-29 10:47:21 - root - INFO - Simulation completed.
